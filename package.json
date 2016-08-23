@@ -1,13 +1,14 @@
 {
-  "name": "stranger-syntax",
+  "name": "what-about-barb-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "1.0.0",
+  "description": "stranger things themed syntax for atom",
   "keywords": [
+    "stranger things",
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/stranger-syntax",
+  "repository": "https://github.com/danmakenoise/what-about-barb-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
